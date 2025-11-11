@@ -72,6 +72,7 @@ cp .dev.env .env
 
 ```bash
 OPENAI_API_KEY="your_openai_api_key"
+TELEGRAM_TOKEN="your_telegram_bot_token"
 ```
 
 
